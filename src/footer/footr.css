@@ -51,14 +51,3 @@ footer p{
 }
 
 
-@media (max-width:700px){
-    .footer_container .forres{
-        display: none;
-    }
-   
-}
-@media (max-width:500px){
-    .footer_container .forres{
-        display: none;
-    }
-}
