@@ -105,17 +105,3 @@
     margin-top: 10px;
 }
 
-@media (max-width:768px){
-    .slide_part .right_slide{
-     display: none;
-    }
-    
-    .slide_part .left_slide{
-        width: 100%;
-    }
-
-    .center_img img{
-        object-fit: cover;
-        height: 120px;
-    }
-}
