@@ -117,31 +117,9 @@
     margin-top: 3px;
 }
 
-/* media query */
 
-@media (max-width:778px){
-    .cart_section{
-        height: auto;
-    }
-    .cart_section .cart_container{
-      flex-direction: column;
-      align-items: center;
-    }
-    
-    .cart_container .left_cart,
-    .cart_container .right_cart{
-        flex: 1;
-    }
-    .cart_container .right_cart{
-        margin-top: 20px;
-    }
-}
 
-@media (max-width:500px){
-    .cart_btn .cart_btn1,
-    .cart_btn .cart_btn2{
-        width: 160px;
-    }
+
 
     
 .left_cart .cart_btn{
